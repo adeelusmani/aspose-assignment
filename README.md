@@ -15,3 +15,5 @@ This repository contains:
 	-video
 		Contains brief visual overview of application
 			 	
+	-netrestclient
+		Contains .net client to use Rest API.
